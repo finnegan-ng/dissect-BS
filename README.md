@@ -25,4 +25,6 @@ In this project, we will assume fixed volatility, but a randomly changing intere
 ## Technologies
 The project is created with Mathematica
 
+![leastsquare](https://user-images.githubusercontent.com/56982400/75096247-bda83300-556b-11ea-80d6-7d15e88ebcdc.jpg)
+
 
