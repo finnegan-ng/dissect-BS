@@ -18,9 +18,7 @@ The Black Scholes equation:
 
 ![sigequation](https://latex.codecogs.com/gif.latex?%5Csigma%20%3A%20%5Cmbox%7Bthe%20volatility%20of%20the%20security%20price%20%7D)
 
-In this project, we will assume fixed volatility, but a randomly changing interest rate.
-
-Assume that the interest rate evolves by a Wiener process:
+In this project, we will assume fixed volatility, but a randomly changing interest rate. Let the interest rate evolves by a Wiener process:
 
 ![dequation](https://latex.codecogs.com/gif.latex?dX_t%20%3D%20%5Cgamma%20dW_t)
 
