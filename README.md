@@ -1,5 +1,6 @@
 # dissect-BS
-This project is implying numerical methods to investigate options pricing using the Black-Scholes equation. 
+This project is implying numerical methods to investigate options pricing using the Black-Scholes equation. The interest rate randomly evolves by a Wiener process. We render the Black-Scholes PDE using finite difference methods (BTCS, FTCS, Crank-Nicolson). Here, we consider a European call option for Facebook (FB) purchased now. Then, we apply the method of Monte Carlo to find the solution vectors for each sequence of interest rates. Finally, we find the mean of these vectors and use B-Spline to estimate the value of the option.
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
